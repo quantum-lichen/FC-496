@@ -87,4 +87,3 @@ Un prototype logiciel (simulation du **Transmuter**) est actuellement disponible
 ---
 *Généré pour la documentation officielle du protocole FC-496.*
 
-### Souhaitez-vous que je génère un exemple de code Python simulant la création d'une "Cellule Fractale" basée sur ces spécifications ?
