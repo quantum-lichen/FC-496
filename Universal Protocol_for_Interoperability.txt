@@ -2,11 +2,7 @@ The Theoretical Framework
 
 Filename: Universal Protocol for Interoperability.txt
 
-code
-Text
-download
-content_copy
-expand_less
+
 --- START OF FILE Universal Protocol for Interoperability.txt ---
 
 ﻿The Unified Constant Protocol: A Theoretical Framework for the Universal Computational Cell Based on Harmonic Constants $\phi$, $\pi$, and 496
